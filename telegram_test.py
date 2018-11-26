@@ -1,7 +1,7 @@
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, BaseFilter
 
 
-updater = Updater(token='694341050:AAHhBddiV7Sb742DOZVn68u7bqGqK-6fFOk')
+updater = Updater(token='650314066:AAFrittaRz9-P_rcBHGmy7jpzYsOVIueVeU')
 dispatcher = updater.dispatcher
 
 class FilterOutro(BaseFilter):
